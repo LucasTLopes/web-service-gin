@@ -19,3 +19,11 @@ RESTful API server with two endpoints. Your example project will be a repository
 | defer    | switch    | continue    |
 | for    | import    | var    | 
 | return    |
+
+
+
+
+
+fontes:
+[GO: A LINGUAGEM DE
+PROGRAMAÇÃO DA GOOGLE](http://www.inf.ufes.br/~vitorsouza/archive/2020/wp-content/uploads/teaching-lp-20162-seminario-go.pdf "PDF EXPLICATIVO!")
